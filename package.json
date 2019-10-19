@@ -1,10 +1,10 @@
 {
-  "name": "hyper-blyss",
-  "description": "A port of the Bliss theme for Hyper.",
+  "name": "hyper-elise-theme",
+  "description": "Elise theme for Hyper",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saadq/hyper-blyss.git"
+    "url": "git+https://github.com/sunho207/hyper-elise-theme.git"
   },
   "version": "1.0.0",
   "main": "index.js",
